@@ -53,7 +53,7 @@ function draw() {
   // Draw Valentine's message
   fill(200, 0, 100);
   textSize(24);
-  text("Happy Valentine's Day!", width / 2, 40);
+  text("I love you Mimi!", width / 2, 40);
   textSize(16);
   text("Touch the screen to create love!", width / 2, 70);
 }
